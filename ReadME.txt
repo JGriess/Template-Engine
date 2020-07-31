@@ -1,0 +1,1 @@
+In this assignment I created an application that takes user imput and prints out infromation on employees based on that.
